@@ -7,9 +7,11 @@ python3 LandrayOA.py -u http://www.example.com
 
 python3 LandrayOA.py -f urls.txt
 
-![da3b2455110edcfa4f5c59356329633](https://github.com/mvpyyds/LandaryOA/assets/87457452/e632a804-955f-4062-9f3b-4e9b0990b9ab)
+![image](https://github.com/mvpyyds/LandaryOA/assets/87457452/ff8d866e-6768-4e89-bdc5-31aa6d213e7f)
 
-![image](https://github.com/mvpyyds/LandaryOA/assets/87457452/c673a9c1-f41b-4da2-a692-f29f8f0fdfb6)
+
+![image](https://github.com/mvpyyds/LandaryOA/assets/87457452/f195a9f7-152a-4832-a756-eb250fce9a7d)
+
 
 
 
